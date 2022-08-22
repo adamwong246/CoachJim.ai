@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/ic_baseline_calendar_today_24.xml" value="0.1615" />
+        <entry key="app/src/main/res/layout/activity_tasks.xml" value="0.4036458333333333" />
         <entry key="app/src/main/res/xml/root_preferences.xml" value="0.1" />
       </map>
     </option>

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">CoachJim</string>
+    <string name="app_name">CoachJim.ai</string>
     <string name="title_activity_settings">SettingsActivity</string>
 
     <!-- Preference Titles -->
@@ -17,4 +17,13 @@
     </string>
     <string name="attachment_summary_off">Only download attachments when manually requested</string>
     <string name="title_activity_workout">WorkoutActivity</string>
+
+
+
+
+
+    <string name="show_completed">Show completed tasks</string>
+    <string name="priority">Priority</string>
+    <string name="deadline">Deadline</string>
+    <string name="priority_value">Priority %s</string>
 </resources>
